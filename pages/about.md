@@ -22,22 +22,30 @@ Ed Ballard was born in 1874, just outside of French Lick, in the small town of H
 
 By 1903, the *Inter Ocean*, a Chicago newspaper, called Ballard the "King of the West Baden Sporting Fraternity" and was the manager of the casino located on thegrounds of the West Baden Springs Hotel.<sup>3</sup>
 
-{% include feature/image.html objectid="https://www.flickr.com/photos/203823042@N07/54923970069/in/dateposted-public/" width="100" alt="Ed Ballard's portrait in 1903" caption="Ed Ballard in 1903"%}
+{% include feature/image.html objectid="https://www.flickr.com/photos/203823042@N07/54923970069" width="75" alt="Ed Ballard's portrait in 1903" caption="Ed Ballard in 1903"%}
 
 Ballard's illegal gambling and business empire expanded rapidly, and by 1905 he had a near monopoly on gambling for visitors to the French Lick-West Baden area when he acquired the lease and eventual ownership of the Brown Hotel, the largest casino in the area and possibly the entire midwest.<sup>4</sup> Ballard's business interests continued to expand over the years, with his acquisition of multiple circuses, clubs, hotels, and casinos resulting in his net worth being estimated around 20 million dollars by the end of the 1920s.<sup>5</sup>
 
-{% include feature/image.html objectid="https://www.flickr.com/photos/203823042@N07/54924006583/in/dateposted-public/" width="100" alt="Ed Ballard's writeup in Variety, 1925" caption="Variety called him mystic and powerful in their September 16, 1925 issue"%}
+{% include feature/image.html objectid="https://www.flickr.com/photos/203823042@N07/54924006583" width="75" alt="Ed Ballard's writeup in Variety, 1925" caption="Variety called him mystic and powerful in their September 16, 1925 issue"%}
 
+## Ballard's Murder
+
+By the mid 1930s, Ballard 
 
 
 
 
 
 ### Citations
+
 1: “Ed Ballard, Noted State Sportsman, Slain.” *The Indianapolis Star*, November 7, 1936. https://www.newspapers.com/image-view/105407271/. 1-3. 
+
 2: Ballard, Charles Edward, Janet Kirk Johnson, and Anna Marie Borcia. *Charles Edward “Ed” ballard: A story of determination, self-education, and ultimate success*. Peru, Indiana: C.E. Ballard-Literary Trust, 1984. 30. 
+
 3: “Gambling at Gay West Baden, the Monte Carlo of Indiana.” The Inter Ocean. April 26, 1903, sec. Magazine. 56. https://www.newspapers.com/image-view/34202732
+
 4: The Indianapolis Star (Indianapolis, IN). “Taggart Evades Pitfalls of State.” March 10, 1910. https://www.newspapers.com/image-view/1047000906/. 5. 
+
 5: The Washington Times (Washington [D.C.]). “John Ringling America’s Richest Showman.” May 9, 1927. 8.
 
 
