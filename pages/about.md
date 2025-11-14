@@ -22,7 +22,7 @@ Ed Ballard was born in 1874, just outside of French Lick, in the small town of H
 
 By 1903, the *Inter Ocean*, a Chicago newspaper, called Ballard the "King of the West Baden Sporting Fraternity" and was the manager of the casino located on thegrounds of the West Baden Springs Hotel.<sup>3</sup>
 
-{% include feature/image.html objectid="https://www.flickr.com/photos/203823042@N07/54923970069" width="75" alt="Ed Ballard's portrait in 1903" caption="Ed Ballard in 1903"%}
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/203823042@N07/54923970069/in/dateposted-public/" title="ballard1903"><img src="https://live.staticflickr.com/65535/54923970069_4ba943b5fa_m.jpg" width="240" height="220" alt="ballard1903"/></a>
 
 Ballard's illegal gambling and business empire expanded rapidly, and by 1905 he had a near monopoly on gambling for visitors to the French Lick-West Baden area when he acquired the lease and eventual ownership of the Brown Hotel, the largest casino in the area and possibly the entire midwest.<sup>4</sup> Ballard's business interests continued to expand over the years, with his acquisition of multiple circuses, clubs, hotels, and casinos resulting in his net worth being estimated around 20 million dollars by the end of the 1920s.<sup>5</sup>
 
