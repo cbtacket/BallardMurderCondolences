@@ -25,9 +25,9 @@ title: The Murder of Ed Ballard in Telegrams
 tagline: a collection of condolences sent to the Ballard family
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "The Murder of Ed Ballard in Telegrams documents the aftermath of the murder of Ed Ballard, 1874-1936"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Christian Tackett
 
 ##########
 # COLLECTION SETTINGS
@@ -49,7 +49,7 @@ metadata: ballardmurdermetadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+# noindex: false 
 
 ##########
 # BUILD SETTINGS 
