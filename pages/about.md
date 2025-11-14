@@ -20,13 +20,13 @@ This is a collection of digitized telegrams sent to Dolly Finfrock Ballard the w
 
 Ed Ballard was born in 1874, just outside of French Lick, in the small town of Hillham, Indiana. Little is known about his early life, but his ascent to wealth was "rapid," according to an article published shortly after his death in the *Indianapolis Star*.<sup>1</sup> According to Ballard's son, Chad, he only had an education up to the fourth grade, when he quit to be a pinsetter for the bowling alley in the West Baden Springs Hotel. At sixteen, he became a rural mail carrier, and by the time he was 19, he became a bartender in the nearby town of Paoli. Here, he had his first foray into running games of chance.<sup>2</sup>
 
-By 1903, the *Inter Ocean*, a Chicago newspaper, called Ballard the "King of the West Baden Sporting Fraternity" and was the manager of the casino located on thegrounds of the West Baden Springs Hotel.<sup>3</sup>
+By 1903, the *Inter Ocean*, a Chicago newspaper, called Ballard the "King of the West Baden Sporting Fraternity" and was the manager of the casino located on the grounds of the West Baden Springs Hotel.<sup>3</sup>
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/203823042@N07/54923970069/in/dateposted-public/" title="ballard1903"><img src="https://live.staticflickr.com/65535/54923970069_4ba943b5fa_m.jpg" width="240" height="220" alt="ballard1903"/></a>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/203823042@N07/54923970069/in/dateposted-public/" title="ballard1903"><img src="https://live.staticflickr.com/65535/54923970069_4ba943b5fa_w.jpg" width="400" height="366" alt="ballard1903"/></a>
 
 Ballard's illegal gambling and business empire expanded rapidly, and by 1905 he had a near monopoly on gambling for visitors to the French Lick-West Baden area when he acquired the lease and eventual ownership of the Brown Hotel, the largest casino in the area and possibly the entire midwest.<sup>4</sup> Ballard's business interests continued to expand over the years, with his acquisition of multiple circuses, clubs, hotels, and casinos resulting in his net worth being estimated around 20 million dollars by the end of the 1920s.<sup>5</sup>
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/203823042@N07/54924006583/in/dateposted-public/" title="ballard 1925"><img src="https://live.staticflickr.com/65535/54924006583_55cd17abda_m.jpg" width="240" height="108" alt="ballard 1925"/></a>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/203823042@N07/54924006583" title="ballard 1925"><img src="https://live.staticflickr.com/65535/54924006583_55cd17abda_w.jpg" width="400" height="180" alt="ballard 1925"/></a>
 
 
 ## Ballard's Murder
