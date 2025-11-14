@@ -26,11 +26,13 @@ By 1903, the *Inter Ocean*, a Chicago newspaper, called Ballard the "King of the
 
 Ballard's illegal gambling and business empire expanded rapidly, and by 1905 he had a near monopoly on gambling for visitors to the French Lick-West Baden area when he acquired the lease and eventual ownership of the Brown Hotel, the largest casino in the area and possibly the entire midwest.<sup>4</sup> Ballard's business interests continued to expand over the years, with his acquisition of multiple circuses, clubs, hotels, and casinos resulting in his net worth being estimated around 20 million dollars by the end of the 1920s.<sup>5</sup>
 
-{% include feature/image.html objectid="ballard 1925.jpg" width="75" alt="Ed Ballard's writeup in Variety, 1925" caption="Variety called him mystic and powerful in their September 16, 1925 issue"%}
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/203823042@N07/54924006583/in/dateposted-public/" title="ballard 1925"><img src="https://live.staticflickr.com/65535/54924006583_55cd17abda_m.jpg" width="240" height="108" alt="ballard 1925"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+{% include feature/image.html objectid="https://www.flickr.com/photos/203823042@N07/54924006583/in/dateposted-public/" width="75" alt="Ed Ballard's writeup in Variety, 1925" caption="Variety called him mystic and powerful in their September 16, 1925 issue"%}
 
 ## Ballard's Murder
 
-By the mid 1930s, Ballard 
+By the mid 1930s, Ballard had retreated somewhat from his business activities. He sold a number of his clubs and casinos, and had completely sold off his circus holdings
 
 
 
