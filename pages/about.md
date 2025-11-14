@@ -10,11 +10,15 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About Ed Ballard" %}
+{% include feature/nav-menu.html sections="About the Collection;About Ed Ballard;Ballard's Murder" %}
 
 ## About the Collection
 
 This is a collection of digitized telegrams sent to Dolly Finfrock Ballard the week of November 6, 1936. The telegrams were all sent in response to the murder of her husband: **Charles Edward "Ed" Ballard.**
+
+The items in the collection are located in the French Lick West Baden Museum, in French Lick, Indiana.
+
+This collection was built using CollectionBuilder-GH
 
 ## About Ed Ballard
 
@@ -24,20 +28,24 @@ By 1903, the *Inter Ocean*, a Chicago newspaper, called Ballard the "King of the
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/203823042@N07/54923970069/in/dateposted-public/" title="ballard1903"><img src="https://live.staticflickr.com/65535/54923970069_4ba943b5fa_w.jpg" width="400" height="366" alt="ballard1903"/></a>
 
-Ballard's illegal gambling and business empire expanded rapidly, and by 1905 he had a near monopoly on gambling for visitors to the French Lick-West Baden area when he acquired the lease and eventual ownership of the Brown Hotel, the largest casino in the area and possibly the entire midwest.<sup>4</sup> Ballard's business interests continued to expand over the years, with his acquisition of multiple circuses, clubs, hotels, and casinos resulting in his net worth being estimated around 20 million dollars by the end of the 1920s.<sup>5</sup>
+Ballard's illegal gambling and business empire expanded rapidly, and by 1905 he had a near monopoly on gambling for visitors to the French Lick-West Baden area when he acquired the lease and eventual ownership of the Brown Hotel, the largest casino in the area and possibly the entire midwest.<sup>4</sup> Ballard's business interests continued to expand over the years, with his acquisition of multiple circuses, clubs, hotels, and casinos resulting in his net worth being estimated around 20 million dollars by the end of the 1920s.<sup>5</sup> He was an intensely private person, with the entertainment newspaper *Variety* describing him as "mystic and powerful" in their September 16, 1925 issue.
 
 <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/203823042@N07/54924006583" title="ballard 1925"><img src="https://live.staticflickr.com/65535/54924006583_55cd17abda_w.jpg" width="400" height="180" alt="ballard 1925"/></a>
 
 
 ## Ballard's Murder
 
-By the mid 1930s, Ballard had retreated somewhat from his business activities. He sold a number of his clubs and casinos, and had completely sold off his circus holdings
+By the 1930s, Ballard had retreated somewhat from his business activities. He sold a number of his clubs and casinos, and had completely sold off his circus holdings in 1929. *Variety* reported that he might retire abroad in 1930, but it seems he ultimately did not.<sup>6</sup> 
+
+By November 6, 1936, Ballard was 63 years old and taking a vacation in Hot Springs, Arkansas. There, he met Robert Alexander, an old business partner on some business deals. Robert allegedly still held a grudge against Ballard for his actions during one of these business deals. Robert Alexander killed Ballard in the hotel where they were both staying, and then committed suicide.<sup>7</sup>
+
+A flood of telegrams came following the news of his death to his wife, Dolly, who was with him on the trip.
 
 
+{% include feature/button.html text="See the Collection" link="https://cbtacket.github.io/BallardMurderCondolences/browse.html" color="success" %}
 
 
-
-### Citations
+## Citations
 
 1: “Ed Ballard, Noted State Sportsman, Slain.” *The Indianapolis Star*, November 7, 1936. https://www.newspapers.com/image-view/105407271/. 1-3. 
 
@@ -48,5 +56,9 @@ By the mid 1930s, Ballard had retreated somewhat from his business activities. H
 4: The Indianapolis Star (Indianapolis, IN). “Taggart Evades Pitfalls of State.” March 10, 1910. https://www.newspapers.com/image-view/1047000906/. 5. 
 
 5: The Washington Times (Washington [D.C.]). “John Ringling America’s Richest Showman.” May 9, 1927. 8.
+
+6: “Ed Ballard, America’s Unique Figure, Retiring to Live Abroad.” Variety 99, no. 5, May 14, 1930. 1-27.
+
+7: "“Ed Ballard, Noted State Sportsman, Slain.” *The Indianapolis Star*, November 7, 1936. https://www.newspapers.com/image-view/105407271/. 1.
 
 
